@@ -1,0 +1,198 @@
+#id2row{
+    justify-content: center;
+    background-color: blue;
+}
+.box1{
+    
+    color: white;
+    background-color:blue;
+    border: solid white;
+    border: radius 30px;;
+
+}
+.box2{
+    
+    color: white;
+    background-color:blue;
+    border: solid white;
+    border: radius 30px;;
+ 
+}
+.box3{
+    
+    color: white;
+    background-color:blue;
+    border: solid white;
+    border: radius 30px;;
+ 
+}
+.box4{
+    justify-content:center;
+    display: flex;
+    flex-direction: row;
+}
+.BOX{
+    display: flex;
+    justify-content: center;
+}
+.BOX1{
+    display: flex;
+    justify-content: center;
+}
+.w{
+    color: blue;
+    justify-content: center;
+    display: flex;
+   
+}
+.m{
+    color: blue;
+    display: flex;
+    justify-content: center;
+}
+
+.s{
+    color: blue;
+    display: flex;
+    justify-content: center;
+}
+.q{
+    color: blue;
+
+   
+    justify-content: center;
+    display: flex;
+    
+}
+.f{
+    color: blue;
+    font-style: italic;
+
+   
+    justify-content: center;
+    display: flex;
+}
+#rb{
+    background-color:blue;
+    color: white;
+    height: 300px;
+}
+#rb1{
+    background-color:rgb(110, 110, 169);
+    color: white;
+}
+#rb2{
+    background-color:rgb(30, 30, 42);
+    color: white;
+}
+.l{
+    color: white;
+    background-color:blue;
+    border: solid white;
+    border: radius 30px;;
+
+
+  
+    
+    
+}
+#d{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+#d h1{
+    color: blue;
+}
+#anu{
+    background-image: url(images/Untitled-2.jpg);
+    height: 500px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+#art{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    
+}
+#art h1{
+    color: blue;
+}
+#art button{
+    background-color: blue;
+    color: white;
+}
+#small{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#athi{
+    justify-content: center;
+    
+    display: flex;
+    flex-direction: column;
+}
+#purple{
+    background-color:rgb(82, 82, 209);
+    height: 600px;
+    width: 100%;
+}
+#purple h1,h5,h6{
+    color: white;
+    
+}
+#purple button{
+    color: blue;
+    background-color: white;
+}
+#man img{
+    
+    
+    border-radius: 900px;
+}
+#em{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+#em button{
+    background-color: white;
+    color: blue;
+    border-radius: 20px;
+    height: 40px;
+    width: 200px;
+}
+#last{
+    background-color:rgb(82, 82, 209) ;
+    color: white;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+#end{
+    background-color: grey;
+    color: white;
+    height: 100px;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
